@@ -15,6 +15,7 @@ public class Game
 
         //Guiobjekt erstellt
         GUI gui = new GUI();
+        gui.frame();
         gui.sound();
     }
 
